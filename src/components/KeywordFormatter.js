@@ -2,8 +2,8 @@ import React, { useState, useEffect } from 'react'
 
 const KeywordFormatter = () => {
   const [input, setInput] = useState('')
-  const [bmm, setBmm] = useState(false)
-  const [em, setEm] = useState(false)
+  const [bmm, setBmm] = useState(true)
+  const [em, setEm] = useState(true)
   const [output, setOutput] = useState('')
 
   useEffect(() => {
@@ -102,7 +102,7 @@ const KeywordFormatter = () => {
               className="form-check-input"
               id="bmm"
               onChange={(e) => setBmm(e.target.checked)}
-              value={bmm}
+              checked={bmm}
             />
             <label className="form-check-label" htmlFor="bmm">
               Broad match modifier
@@ -114,7 +114,7 @@ const KeywordFormatter = () => {
               className="form-check-input"
               id="em"
               onChange={(e) => setEm(e.target.checked)}
-              value={em}
+              checked={em}
             />
             <label className="form-check-label" htmlFor="em">
               Exact match
