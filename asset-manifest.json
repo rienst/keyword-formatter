@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/keyword-formatter/static/css/main.6cccfbf2.chunk.css",
+    "main.js": "/keyword-formatter/static/js/main.6cee716f.chunk.js",
+    "main.js.map": "/keyword-formatter/static/js/main.6cee716f.chunk.js.map",
+    "runtime-main.js": "/keyword-formatter/static/js/runtime-main.428a68ce.js",
+    "runtime-main.js.map": "/keyword-formatter/static/js/runtime-main.428a68ce.js.map",
+    "static/js/2.88366d37.chunk.js": "/keyword-formatter/static/js/2.88366d37.chunk.js",
+    "static/js/2.88366d37.chunk.js.map": "/keyword-formatter/static/js/2.88366d37.chunk.js.map",
+    "index.html": "/keyword-formatter/index.html",
+    "precache-manifest.c1eaa24fb7137a641d22d050d42ba784.js": "/keyword-formatter/precache-manifest.c1eaa24fb7137a641d22d050d42ba784.js",
+    "service-worker.js": "/keyword-formatter/service-worker.js",
+    "static/css/main.6cccfbf2.chunk.css.map": "/keyword-formatter/static/css/main.6cccfbf2.chunk.css.map",
+    "static/js/2.88366d37.chunk.js.LICENSE.txt": "/keyword-formatter/static/js/2.88366d37.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.428a68ce.js",
+    "static/js/2.88366d37.chunk.js",
+    "static/css/main.6cccfbf2.chunk.css",
+    "static/js/main.6cee716f.chunk.js"
+  ]
+}
