@@ -1,0 +1,8 @@
+.copy-button {
+  @extend .btn;
+  @extend .btn-sm;
+  @extend .btn-primary;
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+}
